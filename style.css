@@ -1,0 +1,46 @@
+header{
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+   font-size: 30px;
+   font-weight: 400;
+
+}
+
+
+body{
+    background-color: rgba(205, 93, 93, 1);
+}
+
+.qq{
+    font-size: 64px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+
+span{
+    color: yellow;
+}
+
+.card{
+    width: 300px;
+    height: 300px;
+    color: white;
+    background-color: black;
+    text-align: center;
+
+}
+
+/* img{
+    width: 300px;
+    height: 100px;
+} */
+
+
+main{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 100px;
+}
